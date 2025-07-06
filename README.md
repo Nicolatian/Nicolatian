@@ -17,7 +17,7 @@ I'm currently a Medialogy student at Aalborg University, all about merging creat
 - Languages: **C#**, **Kotlin**, **Python**
 - Currently building a Python machine learning script to recognize humans in street video footage.
 ---
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
@@ -28,7 +28,7 @@ I'm currently a Medialogy student at Aalborg University, all about merging creat
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-📫 **Contact me!**  
-nicolaivestergaard45@gmail.com
+**Contact me!📧**  
+Gmail: nicolaivestergaard45@gmail.com
 
 Feel free to check my scuffed projects
