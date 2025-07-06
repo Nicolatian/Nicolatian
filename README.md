@@ -1,6 +1,6 @@
 # Hello World! I'm Nicolatian
 
-I'm currently a Medialogy student at Aalborg University, all about merging creativity with technology. I'm currently focusing on strengthening my coding skills and working on projects that bring ideas to life through design and development.
+I'm currently a Medialogy student at Aalborg University, all about merging creativity with technology. I'm currently focusing on strengthening my coding skills and working on side projects.
 
 ## Design stuff
 - 2D Pixel Art in **Aseprite** & **Adobe Illustrator**
