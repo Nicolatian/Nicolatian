@@ -3,7 +3,7 @@
 I'm currently a Medialogy student at Aalborg University, all about merging creativity with technology. I am currently focusing on strengthening my coding skills and working on side projects.
 
 ## Development things
-- Building projects in Unity
+- Building projects for personal laziness
 - Combining my own ideas, art and mechanics
 - Testing to try out ideas, see what works, and keep learning by doing
 
